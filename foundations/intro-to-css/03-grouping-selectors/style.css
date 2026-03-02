@@ -1,5 +1,6 @@
 /* Add CSS Styling */
-.click {
+.black,
+.yellow {
     font-size: 28px;
     font-family: "Times New Roman", Helvetica, sans-serif;
 }
